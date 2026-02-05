@@ -1,17 +1,21 @@
 <h1 align="center">Hey there 👋 I'm Suryanshu Rai</h1>
 
 <p align="center">
+  <a href="https://leetcode.com/u/Suryanshu_Rai/">
+    <img src="https://img.shields.io/badge/LeetCode-Suryanshu_Rai-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
+
   <a href="https://github.com/suryanshukumarrai">
     <img src="https://img.shields.io/badge/GitHub-suryanshukumarrai-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+
+  <a href="mailto:suryanshura173@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+
   <img src="https://komarev.com/ghpvc/?username=suryanshukumarrai&style=for-the-badge&color=blueviolet">
 </p>
+
 
 ---
 
