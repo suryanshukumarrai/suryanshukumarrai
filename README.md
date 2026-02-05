@@ -4,58 +4,39 @@
   <a href="https://leetcode.com/u/Suryanshu_Rai/">
     <img src="https://img.shields.io/badge/LeetCode-Suryanshu_Rai-orange?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
-
   <a href="https://github.com/suryanshukumarrai">
     <img src="https://img.shields.io/badge/GitHub-suryanshukumarrai-black?style=for-the-badge&logo=github">
   </a>
-
   <a href="mailto:suryanshura173@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-
   <img src="https://komarev.com/ghpvc/?username=suryanshukumarrai&style=for-the-badge&color=blueviolet">
 </p>
 
+<img src="https://raw.githubusercontent.com/suryanshukumarrai/suryanshukumarrai/main/assets/hero.gif" width="100%"/>
 
 ---
-
-<img align="right" width="400" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 👨‍💻 About Me
 
-Hey 👋 I’m **Suryanshu Rai**, a Final Year BTech student passionate about software development and building real-world applications.
+I’m **Suryanshu Rai**, a Final Year BTech student passionate about building real-world software systems.
 
-I focus on:
-- Backend & API development  
-- Web technologies  
-- Automation & problem solving  
+- Backend & API Development  
+- Web Technologies  
+- Automation & Problem Solving  
+- Python focused  
 
-Currently improving my skills in Python, web systems, and scalable app design.
+<img align="right" width="380" src="https://raw.githubusercontent.com/suryanshukumarrai/suryanshukumarrai/main/assets/coding.gif"/>
 
 ---
 
-<h3 align="center">🚀 My Coding Journey</h3>
+## 🚀 My Coding Journey
 
-<table align="center" width="100%" cellspacing="15">
+<img src="https://raw.githubusercontent.com/suryanshukumarrai/suryanshukumarrai/main/assets/dashboard.png" width="100%"/>
 
-<tr>
-<td style="border:2px solid #30363d;border-radius:12px;background:#0d1117;text-align:center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=suryanshukumarrai&show_icons=true&theme=tokyonight" width="100%"/>
-
-</td>
-
-<td style="border:2px solid #30363d;border-radius:12px;background:#0d1117;text-align:center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshukumarrai&theme=tokyonight" width="100%"/>
-
-</td>
-</tr>
-
-<tr>
-<td style="border:2px solid #30363d;border-radius:12px;background:#0d1117;padding:10px;text-align:center">
-
-<h3 style="color:#58a6ff">🛠 Tech Stack</h3>
+## 🛠 Tech Stack
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -65,16 +46,10 @@ Currently improving my skills in Python, web systems, and scalable app design.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
 
-</td>
+---
 
-<td style="border:2px solid #30363d;border-radius:12px;background:#0d1117;text-align:center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshukumarrai&layout=compact&theme=tokyonight" width="100%"/>
-
-</td>
-</tr>
-
-</table>
+![Stats](https://github-readme-stats.vercel.app/api?username=suryanshukumarrai&show_icons=true&theme=tokyonight)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshukumarrai&layout=compact&theme=tokyonight)
 
 ---
 
