@@ -17,14 +17,14 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I’m **Suryanshu Rai**, a Final Year BTech student passionate about building real-world software systems.
+I’m **Suryanshu Rai**, a Final Year BTech student passionate about building scalable and real-world software systems.
 
 - Backend & API Development  
 - Web Technologies  
-- Automation & Problem Solving  
-- Python focused  
+- Automation & System Design  
+- Python Focused  
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/suryanshukumarrai/suryanshukumarrai/main/assets/coding.gif"/>
 
@@ -38,6 +38,7 @@ I’m **Suryanshu Rai**, a Final Year BTech student passionate about building re
 
 ## 🛠 Tech Stack
 
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -45,13 +46,42 @@ I’m **Suryanshu Rai**, a Final Year BTech student passionate about building re
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+</p>
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=suryanshukumarrai&show_icons=true&theme=tokyonight)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshukumarrai&layout=compact&theme=tokyonight)
+## 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/suryanshukumarrai/hostel-complaint-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshukumarrai&repo=hostel-complaint-system&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/suryanshukumarrai/coffee-shop-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshukumarrai&repo=coffee-shop-website&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/suryanshukumarrai/portfolio-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshukumarrai&repo=portfolio-website&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/suryanshukumarrai/python-automation-scripts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshukumarrai&repo=python-automation-scripts&theme=tokyonight" />
+  </a>
+</p>
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suryanshukumarrai&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshukumarrai&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=suryanshukumarrai&theme=radical&no-frame=true"/>
@@ -59,6 +89,12 @@ I’m **Suryanshu Rai**, a Final Year BTech student passionate about building re
 
 ---
 
+## 📈 Contribution Graph
+
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryanshukumarrai&theme=react-dark"/>
 </p>
+
+---
+
+<h3 align="center">🚀 Building. Learning. Growing.</h3>
