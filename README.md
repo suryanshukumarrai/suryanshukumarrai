@@ -50,27 +50,23 @@ I’m **Suryanshu Rai**, a Final Year BTech student passionate about building sc
 
 ---
 
-## 📌 Pinned Projects
-
 <p align="center">
-  <a href="https://github.com/suryanshukumarrai/hostel-complaint-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshukumarrai&repo=hostel-complaint-system&theme=tokyonight" />
+  <a href="https://github.com/suryanshukumarrai/FairShot-Coffee">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshukumarrai&repo=FairShot-Coffee&theme=tokyonight" />
   </a>
-  <a href="https://github.com/suryanshukumarrai/coffee-shop-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshukumarrai&repo=coffee-shop-website&theme=tokyonight" />
+  <a href="https://github.com/suryanshukumarrai/Hostel-Complaint-management-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshukumarrai&repo=Hostel-Complaint-management-system&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/suryanshukumarrai/portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshukumarrai&repo=portfolio-website&theme=tokyonight" />
+  <a href="https://github.com/suryanshukumarrai/DSA_Questions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshukumarrai&repo=DSA_Questions&theme=tokyonight" />
   </a>
-  <a href="https://github.com/suryanshukumarrai/python-automation-scripts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshukumarrai&repo=python-automation-scripts&theme=tokyonight" />
+  <a href="https://github.com/suryanshukumarrai/FlickTales-movie">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshukumarrai&repo=FlickTales-movie&theme=tokyonight" />
   </a>
 </p>
-
----
 
 ## 📊 GitHub Stats
 
