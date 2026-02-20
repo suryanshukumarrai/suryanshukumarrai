@@ -1,96 +1,102 @@
-<h1 align="center">Hey there 👋 I'm Suryanshu Rai</h1>
+<h1 align="center">Hi 👋 I'm Suryanshu Rai</h1>
+<h3 align="center">Backend & Full Stack Engineer | Java • Spring Boot • Python</h3>
 
 <p align="center">
   <a href="https://leetcode.com/u/Suryanshu_Rai/">
-    <img src="https://img.shields.io/badge/LeetCode-Suryanshu_Rai-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=flat-square&logo=leetcode&logoColor=white">
   </a>
   <a href="https://github.com/suryanshukumarrai">
-    <img src="https://img.shields.io/badge/GitHub-suryanshukumarrai-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Projects-black?style=flat-square&logo=github">
   </a>
   <a href="mailto:suryanshura173@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=suryanshukumarrai&style=for-the-badge&color=blueviolet">
 </p>
-
-<img src="https://raw.githubusercontent.com/suryanshukumarrai/suryanshukumarrai/main/assets/hero.gif" width="100%"/>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m **Suryanshu Rai**, a Final Year BTech student passionate about building scalable and real-world software systems.
+Final Year BTech student focused on designing scalable backend systems and full-stack web applications.
 
-- Backend & API Development  
-- Web Technologies  
-- Automation & System Design  
-- Python Focused  
+I enjoy building structured, production-ready systems with clean architecture and efficient APIs.
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/suryanshukumarrai/suryanshukumarrai/main/assets/coding.gif"/>
-
----
-
-## 🚀 My Coding Journey
-
-<img src="https://raw.githubusercontent.com/suryanshukumarrai/suryanshukumarrai/main/assets/dashboard.png" width="100%"/>
+**Core Interests**
+- Backend System Design  
+- REST API Engineering  
+- Full Stack Web Applications  
+- Database Modeling  
+- Scalable Application Architecture  
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
-</p>
+### 🚀 Backend
+- Java  
+- Spring Boot  
+- Python  
+- REST API Development  
+- MVC Architecture  
+
+### 🌐 Frontend
+- HTML5  
+- CSS3  
+- JavaScript  
+
+### 🗄 Database
+- PostgreSQL  
+- Relational Schema Design  
+- Query Optimization  
+
+### ⚙ Tools
+- Git  
+- GitHub  
+- Postman  
+- Maven  
 
 ---
 
-<p align="center">
-  <a href="https://github.com/suryanshukumarrai/FairShot-Coffee">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshukumarrai&repo=FairShot-Coffee&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/suryanshukumarrai/Hostel-Complaint-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshukumarrai&repo=Hostel-Complaint-management-system&theme=tokyonight" />
-  </a>
-</p>
+## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/suryanshukumarrai/DSA_Questions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshukumarrai&repo=DSA_Questions&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/suryanshukumarrai/FlickTales-movie">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshukumarrai&repo=FlickTales-movie&theme=tokyonight" />
-  </a>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryanshukumarrai&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshukumarrai&layout=compact&theme=tokyonight"/>
-</p>
+### ☕ FairShot Coffee  
+Full-stack coffee shop platform with structured backend logic and database-driven workflow.  
+🔗 https://github.com/suryanshukumarrai/FairShot-Coffee  
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=suryanshukumarrai&theme=radical&no-frame=true"/>
-</p>
+### 🏢 Hostel Complaint Management System  
+Role-based complaint management system built with clean backend architecture and structured database design.  
+🔗 https://github.com/suryanshukumarrai/Hostel-Complaint-management-system  
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suryanshukumarrai&theme=react-dark"/>
-</p>
+### 🎬 FlickTales Movie App  
+Movie-based web application integrating API logic and dynamic frontend rendering.  
+🔗 https://github.com/suryanshukumarrai/FlickTales-movie  
 
 ---
 
-<h3 align="center">🚀 Building. Learning. Growing.</h3>
+### 🧠 DSA Questions  
+Optimized implementations of core Data Structures and Algorithms problems.  
+🔗 https://github.com/suryanshukumarrai/DSA_Questions  
+
+---
+
+## 📈 Engineering Focus
+
+- Writing modular and maintainable backend code  
+- Designing scalable RESTful services  
+- Applying clean architecture principles  
+- Improving performance and database efficiency  
+- Strengthening system design fundamentals  
+
+---
+
+## 🎯 Current Direction
+
+Transitioning into advanced Java Full Stack development with Spring Boot while deepening backend scalability and architecture knowledge.
+
+---
+
+<h3 align="center">🚀 Building Scalable Systems. Learning Continuously. Growing Technically.</h3>
