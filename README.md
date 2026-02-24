@@ -65,7 +65,7 @@ Full-stack coffee shop platform with structured backend logic and database-drive
 
 ---
 
-### 🏢 Hostel Complaint Management System  
+### DormCare Elite Hostel Relationship Management System   
 Role-based complaint management system built with clean backend architecture and structured database design.  
 🔗 https://github.com/suryanshukumarrai/Hostel-Complaint-management-system  
 
